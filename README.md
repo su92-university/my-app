@@ -7,13 +7,13 @@ A powerful subscription billing platform with authentication and dashboard featu
 ### Screenshots
 
 **Landing Page**
-![B & S Platform Landing Page](/public/landing-page.png)
+![B & S Platform Landing Page](/public/home.png)
 
 **Registration Page**
-![Create Account Page](/public/register-page.png)
+![Create Account Page](/public/signup.png)
 
 **Login Page**
-![Login Page](/public/login-page.png)
+![Login Page](/public/login.png)
 
 ## Getting Started
 
